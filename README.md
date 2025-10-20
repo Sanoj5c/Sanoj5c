@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanoj Dayarathna
-- 👀 I’m interested in web application development and UI/UX Design
+- 👀 I’m interested in web application development,UI/UX Design and ML
 - 🌱 I’m currently learning .net, React,Angular Languages
 
 
