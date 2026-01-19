@@ -60,7 +60,7 @@ I’m a passionate full-stack developer based in Sri Lanka, focused on building 
 ---
 
 ## 📫 Contact
-- **GitHub:** https://github.com/your-username
+- **GitHub:** https://github.com/your-username](https://github.com/Sanoj5c
 - **LinkedIn:** https://www.linkedin.com/in/sanoj-dayarathna-140469322/
 - **Email:** sanojdayarathna5cc@gmail.com
 
