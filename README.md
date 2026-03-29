@@ -1,69 +1,172 @@
-# 👋 Hi, I'm Sanoj Dayarathna
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sanoj Dayarathna</h1>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=nknaleena101&color=green&base=100">
+</p>
+<div>
+  <div>
+    <p align="center">📫 How to reach me <a href="mailto:sanojdayarathna5cc@gmail.com">Sanojdayarathna5cc@gmail.com</a></p>
+  </div>
+</div>
+<div style="text-align: center; margin: 20px 0">
+  <h3 align="center" style="margin-bottom: 10px">Connect with me:</h3>
+  <p align="center" style="display: inline-block">
+    <a href="https://linkedin.com/in/in/naleena-kumarasinghe" target="blank">
+      <img
+        align="center"
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg"
+        alt="in5naleena-kumarasinghe"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="https://fb.com/naleena.kumarasinghe" target="blank">
+      <img
+        align="center"
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg"
+        alt="na5eena.kumarasinghe"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="https://instagram.com/naleena_nk" target="blank">
+      <img
+        align="center"
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg"
+        alt="na5eena_nk"
+        height="50"
+        width="50"
+      />
+    </a>
+  </p>
+</div>
 
-🚀 **Full-Stack Developer | MERN Stack | Flutter Mobile Apps**
-
-I’m a passionate full-stack developer based in Sri Lanka, focused on building scalable web applications and modern mobile apps. I enjoy turning ideas into real-world digital solutions.
-
----
-
-## 🛠 Tech Stack
-
-### 🌐 Web Development (MERN)
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- REST APIs
-- JWT Authentication
-- GSAP / Framer Motion
-
-### 📱 Mobile Development
-- Flutter
-- Dart
-- Firebase (Auth, Firestore, Storage)
-- REST API Integration
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- MongoDB Atlas
-- npm / Vite
-- Figma (UI reference)
-
----
-
-## 💼 Projects
-
-### 🏥 Medicare — Flutter Mobile Application
-**Healthcare Made Simple with a Powerful, User-Friendly Mobile App**
-
-- Appointment scheduling
-- User authentication
-- Clean and intuitive UI
-- Built using Flutter & Firebase
-
-### 🌐 3D Portfolio Website
-- Interactive 3D portfolio
-- Built with React and GSAP animations
-- Fully responsive design
-
----
-
-## 🎯 What I Do
-- Build full-stack web applications using MERN
-- Develop cross-platform mobile apps with Flutter
-- Design RESTful APIs
-- Create responsive and user-friendly UIs
-- Continuously learn and improve
-
----
-
-## 📫 Contact
-- **GitHub:** https://github.com/your-username](https://github.com/Sanoj5c
-- **LinkedIn:** https://www.linkedin.com/in/sanoj-dayarathna-140469322/
-- **Email:** sanojdayarathna5cc@gmail.com
-
----
-
-⭐ Feel free to explore my repositories and projects!
+<div style="text-align: center; margin: 20px 0">
+  <h3 align="center" style="margin-bottom: 10px">Languages and Tools:</h3>
+  <p align="center" style="display: inline-block; text-align: center">
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg"
+        alt="javascript"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg"
+        alt="php"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg"
+        alt="c"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg"
+        alt="java"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg"
+        alt="mysql"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg"
+        alt="react"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg"
+        alt="nextjs"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/expressjs-dark.svg"
+        alt="expressjs"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg"
+        alt="nodejs"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
+        alt="tailwind"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg"
+        alt="gsap"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/framer-dark.svg"
+        alt="frammer motion"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg"
+        alt="git"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg"
+        alt="figma"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://www.docker.com/en" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg"
+        alt="Docker"
+        width="50"
+        height="50"
+      />
+    </a>
+  </p>
+</div>
