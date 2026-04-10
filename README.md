@@ -20,20 +20,20 @@
         width="50"
       />
     </a>
-    <a href="https://fb.com/naleena.kumarasinghe" target="blank">
+    <a href="https://fb.com/sanojdayarathna" target="blank">
       <img
         align="center"
         src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg"
-        alt="na5eena.kumarasinghe"
+        alt="sanoj dayarathna"
         height="50"
         width="50"
       />
     </a>
-    <a href="https://instagram.com/naleena_nk" target="blank">
+    <a href="https://instagram.com/sanojdayarathna" target="blank">
       <img
         align="center"
         src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg"
-        alt="na5eena_nk"
+        alt="sanoj dayarathna"
         height="50"
         width="50"
       />
