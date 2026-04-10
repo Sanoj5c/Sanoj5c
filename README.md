@@ -11,7 +11,7 @@
 <div style="text-align: center; margin: 20px 0">
   <h3 align="center" style="margin-bottom: 10px">Connect with me:</h3>
   <p align="center" style="display: inline-block">
-    <a href="https://linkedin.com/in/in/Sanoj Dayarathna" target="blank">
+    <a href="[https://linkedin.com/in/in/Sanoj Dayarathna](https://www.linkedin.com/in/sanoj-dayarathna-140469322/)" target="blank">
       <img
         align="center"
         src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg"
@@ -20,7 +20,7 @@
         width="50"
       />
     </a>
-    <a href="https://fb.com/sanojdayarathna" target="blank">
+    <a href="https://fb.com/sanojdayarathna](https://web.facebook.com/sanoj.dayarathna.1/" target="blank">
       <img
         align="center"
         src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg"
