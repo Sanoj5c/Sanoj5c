@@ -11,11 +11,11 @@
 <div style="text-align: center; margin: 20px 0">
   <h3 align="center" style="margin-bottom: 10px">Connect with me:</h3>
   <p align="center" style="display: inline-block">
-    <a href="https://linkedin.com/in/in/naleena-kumarasinghe" target="blank">
+    <a href="https://linkedin.com/in/in/Sanoj Dayarathna" target="blank">
       <img
         align="center"
         src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg"
-        alt="in5naleena-kumarasinghe"
+        alt="sanoj Dayarathna"
         height="50"
         width="50"
       />
